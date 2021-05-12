@@ -7,7 +7,7 @@
 
 - 🤝 Vi leder efter partner her [Discord](https://discord.com/invite/x6Ep953Xsv)
 
-- 👨‍💻 Alle mine projekter er tilgængelige på [https://github.com/BeatzDiscord?tab=repositories](https://github.com/BeatzDiscord?tab=repositories)
+- 👨‍💻 Alle mine projekter er tilgængelige på [https://github.com/BeatzDiscord?tab=repositories](https://github.com/DanskeDevelopers?tab=repositories)
 
 - 📫 G-mail **danskedevelopers@gmail.com**
 
