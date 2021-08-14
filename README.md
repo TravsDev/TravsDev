@@ -1,5 +1,5 @@
-<h1 align="center">Hej 👋, Vi er Danske Developers</h1>
-<h3 align="center">Vi udvikler i Discord bot og hjemme sider!</h3>
+<h1 align="center">Hej 👋</h1>
+<h3 align="center">Jeg udvikler i Discord bot og hjemme sider!</h3>
 
 - 🔭 Vi har en [Discord server](https://discord.com/invite/x6Ep953Xsv)
 
