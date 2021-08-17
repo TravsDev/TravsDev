@@ -1,12 +1,6 @@
 <h1 align="center">Hej 👋</h1>
 <h3 align="center">Jeg udvikler i Discord bot og hjemme sider!</h3>
 
-- 🔭 Vi har en [Discord server](https://discord.com/invite/x6Ep953Xsv)
-
-- 👯 Vi ønsker at samarbejde om **Community**
-
-- 🤝 Vi leder efter partner her [Discord](https://discord.com/invite/x6Ep953Xsv)
-
 - 👨‍💻 Alle mine projekter er tilgængelige på [https://github.com/DanskeDevelopers?tab=repositories](https://github.com/DanskeDevelopers?tab=repositories)
 
 - ⚡ Sjov kendsgerning **jeg tror jeg er mega sej xD**
