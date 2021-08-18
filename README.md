@@ -1,7 +1,7 @@
 <h1 align="center">Hej 👋</h1>
 <h3 align="center">Jeg udvikler i Discord bot og hjemme sider!</h3>
 
-- 👨‍💻 Alle mine projekter er tilgængelige på [https://github.com/DanskeDevelopers?tab=repositories](https://github.com/DanskeDevelopers?tab=repositories)
+- 👨‍💻 Alle mine projekter er tilgængelige på [https://github.com/DanskeDevelopers?tab=repositories](https://github.com/TravsDev?tab=repositories)
 
 - ⚡ Sjov kendsgerning **jeg tror jeg er mega sej xD**
 
