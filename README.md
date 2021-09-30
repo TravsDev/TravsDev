@@ -1,6 +1,8 @@
 <h1 align="center">Hej 👋</h1>
 <h3 align="center">Jeg udvikler i Discord bot og hjemme sider!</h3>
 
+- 🤝 Leder efter partner her [Discord](https://discord.gg/taxnpJHfVh)
+
 - 👨‍💻 Alle mine projekter er tilgængelige på [https://github.com/TravsDev?tab=repositories](https://github.com/TravsDev?tab=repositories)
 
 - 📫 G-mail **dktravs@gmail.com**
